@@ -17,3 +17,6 @@ This project was generated with Angular CLI version 6.1.5 (FRONTEND) and with Ex
 5-Execute the node app.js(if it is installed) to launch the server.
 
 6-Open your browser and access the url http://localhost:4200/rooms.
+
+# additioanl Context 
+** Any information that might be helpful **
